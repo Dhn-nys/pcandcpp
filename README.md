@@ -1,12 +1,19 @@
-<p align="center">
-  <a href="https://www.unikom.ac.id/buku/pemrogrmaan-c-dan-c">
-    <img src="https://www.unikom.ac.id/img_buku/FBCCBIMXFC-pemrograman-C-dan-C.jpg" alt="Book" width="25%">
-  </a>
-</p>
+# Indonesia
+<img src="CoverBook/CoverBook.jpg" align="left" width="204" height="312" />
 
-<h3 align="center">Pemrograman C Dan C++</br>Ir. Adam Mukharil Bachtiar (first printing : 2017)</h3>
+||Informasi|
+|---|---|
+|Judul|: Pemrograman C dan C++|
+|Pengarang|: Adam Mukharil Bachtiar|
+|Penerbit|: Informatika Bandung|
+|Cetakan|: Pertama 2017|
+|Bahasa|: Indonesia|
+|Halaman|: 323 Halaman|
 
-## Table of contents
+<br>
+
+## Daftar Isi
+
 1. [Pendahuluan](/BAB01/)
 2. [Programan Pertama C dan C++](/BAB02/)
 3. [Tipe Data, Variabel, dan Operasi Perhitungan](/BAB03/)
@@ -20,9 +27,33 @@
 11. [Pointer](/BAB11/)
 12. [Operasi file](/BAB12/)
 
-## Req
-1. [Microsoft Windows 7/8/8.1/10 Operating system](https://www.microsoft.com/en-us/windows)
-2. [Dev C++](https://sourceforge.net/projects/orwelldevcpp/)
+# English
+<img src="CoverBook/CoverBook.jpg" align="left" width="204" height="312" />
 
-## Please buy the book to support 💙
-- [Gramedia](https://www.gramedia.com/author/author-adam-mukharil-bachtiar)
+||Information|
+|---|---|
+|Title|: Pemrograman C dan C++|
+|Author|: Adam Mukharil Bachtiar|
+|Publisher|: Informatika Bandung|
+|Prints|: First 2017|
+|Language|: Indonesian|
+|Pages|: 323 Pages|
+<br>
+
+## List of Contents
+
+1. [Introduction](/CHAPTER01/)
+2. [First Program of C and C++](/CHAPTER02/)
+3. [Data Types, Variables, and Calculation Operations](/CHAPTER03/)
+4. [Data Input and Output](/CHAPTER04/)
+5. [Struct](/CHAPTER05/)
+6. [Branch](/CHAPTER06/)
+7. [Repeat](/CHAPTER07/)
+8. [Function](/CHAPTER08/)
+9. [Array](/CHAPTER09/)
+10. [Strings and Their Manipulation](/CHAPTER10/)
+11. [Pointer](/CHAPTER11/)
+12. [File operations](/CHAPTER12/)
+
+
+Note : **Please buy the book to support 💙**

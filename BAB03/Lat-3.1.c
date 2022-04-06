@@ -1,9 +1,13 @@
 /*
- Program 3.1
- Nama File : Lat-3.1.c
- Programmer : Adam Mukharil Bachtiar, S.Kom.
-*/
 
+Source : Buku Pemrograman C dan C++
+Page : 
+NOTE: Please, choose your use windows(Dev-C++) or linux(GCC), and 
+      uncomment the code the selected, comment code which is not selected.
+
+*/ 
+
+// Code with Dev-C++ on Windows
 #include <stdio.h>
 #include <stdlib.h>
 

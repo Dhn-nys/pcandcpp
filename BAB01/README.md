@@ -1,13 +1,14 @@
-# Request Tools 
-1. [Dev C++](https://sourceforge.net/projects/orwelldevcpp/)
-2. [Windows Operating System](https://www.microsoft.com/en-us/software-download/windows10)
+# BAB 01 Install Dev-C++
+On **BAB 01** this just tutorial install Apps Dev-C++
+## Request Tools 
+[Dev C++ Ver. 5.11(Only on Windows)](https://sourceforge.net/projects/orwelldevcpp/)
 
-## How to install Dev C++
+## How to install Dev C++ on Windows
 
 1. Select you language, i choose <b>"English"</b>,
 <img src="../BAB01/Screenshot/img.01.png" alt="Select Language">
 
-2. Later it will appear like this License Agreement Click <b>"Next"</b>,
+2. Later it will appear like this License Agreement Click <b>"I Agree"</b>,
 <img src="../BAB01/Screenshot/img.02.png" alt="License Agreement">
 
 3. And Choose Components, i choose <b>"Full"</b> and click <b>"Next"</b>,
@@ -24,5 +25,3 @@
 
 7. This is the interface of the Dev C++ application
 <img src="../BAB01/Screenshot/img.04.png" alt="Dev C++">
-
-:warning: Dev C++ 5.11
