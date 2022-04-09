@@ -1,9 +1,14 @@
 /*
-   Program 3.3
-   Nama File : Lat-3.3.cpp
-   Programmer : Adam Mukharil Bachtiar, S.Kom.
-*/
 
+Source : Buku Pemrograman C dan C++
+Page   : 41 - 42
+Title  : 
+NOTE   : Please, choose your use windows(Dev-C++) or linux(GCC), and uncomment 
+         the code the selected, comment code which is not selected.
+
+*/ 
+
+// Code with Dev-C++ on Windows
 #include <cstdlib>
 #include <iostream>
 

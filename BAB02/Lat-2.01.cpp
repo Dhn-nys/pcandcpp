@@ -1,9 +1,10 @@
 /*
 
 Source : Buku Pemrograman C dan C++
-Page : 22
-NOTE: Please, choose your use windows(Dev-C++) or linux(GCC), and 
-      uncomment the code the selected, comment code which is not selected.
+Page   : 22
+Title  : Example Structure CPP
+NOTE   : Please, choose your use windows(Dev-C++) or linux(GCC), and uncomment 
+         the code the selected, comment code which is not selected.
 
 */ 
 

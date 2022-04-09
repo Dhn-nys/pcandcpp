@@ -1,9 +1,10 @@
 /*
 
 Source : Buku Pemrograman C dan C++
-Page : 28-29
-NOTE: Please, choose your use windows(Dev-C++) or linux(GCC), and 
-      uncomment the code the selected, comment code which is not selected.
+Page   : 28-29
+Title  : Program Pertama C
+NOTE   : Please, choose your use windows(Dev-C++) or linux(GCC), and uncomment 
+         the code the selected, comment code which is not selected.
 
 */ 
 

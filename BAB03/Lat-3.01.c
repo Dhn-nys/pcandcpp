@@ -1,9 +1,10 @@
 /*
 
 Source : Buku Pemrograman C dan C++
-Page : 
-NOTE: Please, choose your use windows(Dev-C++) or linux(GCC), and 
-      uncomment the code the selected, comment code which is not selected.
+Page   : 34 - 35
+Title  : Memory used in data types (C)
+NOTE   : Please, choose your use windows(Dev-C++) or linux(GCC), and uncomment 
+         the code the selected, comment code which is not selected.
 
 */ 
 

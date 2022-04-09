@@ -1,9 +1,14 @@
 /*
- Program 3.1
- Nama File : Lat-3.1.cpp
- Programmer : Adam Mukharil Bachtiar, S.Kom.
-*/
 
+Source : Buku Pemrograman C dan C++
+Page   : 35 - 36
+Title  : Memory used in data types (CPP)
+NOTE   : Please, choose your use windows(Dev-C++) or linux(GCC), and uncomment 
+         the code the selected, comment code which is not selected.
+
+*/ 
+
+// Code with Dev-C++ on Windows
 #include <cstdlib>
 #include <iostream>
 
